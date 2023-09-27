@@ -5,9 +5,9 @@
 
 ## Programming Requirements
 In this programming project, you must apply and demonstrate the following programming techniques using Python programming language.
-*Input and display data.
-*Lists.
-*Random choice from a list.
-*If statement, and relational and logical operators.
-*Loops.
-*User-defined function.
+* Input and display data.
+* Lists.
+* Random choice from a list.
+* If statement, and relational and logical operators.
+* Loops.
+* User-defined function.
